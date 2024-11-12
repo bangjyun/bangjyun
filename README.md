@@ -1,6 +1,20 @@
 <!-- 깔끔한 README를 위한 개선된 코드 -->
 
 <!-- README Header -->
+<!--
+**bangjyun/bangjyun** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Autonomous Driving
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: bangjun@ajou.ac.kr
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <h2 align="left">
   Bang 👋
