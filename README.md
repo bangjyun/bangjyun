@@ -48,8 +48,10 @@
 </p>
 
 <!-- GitHub Stats Section -->
+<!-- GitHub Stats Section -->
 <div align="center">
   <a href="https://github.com/bangjyun">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bangjyun&layout=compact&langs_count=8&card_width=320" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bangjyun&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a>
 </div>
+
