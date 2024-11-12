@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 - 📫 How to reach me: bangjun@ajou.ac.kr
   
 ![GitHub followers](https://img.shields.io/github/followers/bangjyun?label=Followers&style=social)
@@ -61,9 +62,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<a href="https://github.com/bangjyun/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bangjyun" />
-</a>
+
 <a href="https://github.com/bangjyun">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bangjyun&layout=compact&langs_count=8&card_width=320" />
 </a>
