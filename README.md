@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 <h2 align="left">
   Bang 👋
 </h2>
-
+<br> <!-- 줄 바꿈 추가 -->
 <p align="left">
   📫 <b>How to reach me:</b> <a href="mailto:bangjun@ajou.ac.kr">bangjun@ajou.ac.kr</a>
 </p>
-
+<br> <!-- 줄 바꿈 추가 -->
 <div align="left">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/bangjyun?label=Followers&style=social" />
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/bangjyun?affiliations=OWNER%2CCOLLABORATOR&style=social" />
 </div>
-
+<br> <!-- 줄 바꿈 추가 -->
 <!-- Languages and Tools Section -->
 <h3 align="left" style="color: #00FF7F;">🛠 Languages and Tools:</h3>
 <p align="left">
@@ -63,7 +63,8 @@ Here are some ideas to get you started:
 </p>
 
 <!-- GitHub Stats Section -->
-<!-- GitHub Stats Section -->
+<br> <!-- 줄 바꿈 추가 -->
+<br> <!-- 줄 바꿈 추가 -->
 <div align="left">
   <a href="https://github.com/bangjyun">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bangjyun&layout=compact&langs_count=8&card_width=320&theme=dark" />
