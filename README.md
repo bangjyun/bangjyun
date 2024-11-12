@@ -1,9 +1,9 @@
 <!-- 깔끔한 README를 위한 개선된 코드 -->
 
 <!-- README Header -->
-<h2 align="center">
-  Bang 👋
-</h2>
+
+Bang 👋
+
 
 <p align="center">
   📫 <b>How to reach me:</b> <a href="mailto:bangjun@ajou.ac.kr">bangjun@ajou.ac.kr</a>
