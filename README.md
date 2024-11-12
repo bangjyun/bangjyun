@@ -60,6 +60,6 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="margin: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); border-radius: 10px;"/>
   </a>
 </p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
