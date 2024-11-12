@@ -33,5 +33,14 @@ Here are some ideas to get you started:
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a>
   <!-- Unity -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/> </a>
+  <!-- Ubuntu -->
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/> </a>
+  <!-- Linux -->
+  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a>
+  <!-- Selenium -->
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/> </a>
 </p>
+
 
