@@ -16,8 +16,8 @@
 </div>
 
 <!-- Languages and Tools Section -->
-<h3 align="center" style="color: #00FF7F;">🛠 Languages and Tools:</h3>
-<p align="center">
+<h3 align="left" style="color: #00FF7F;">🛠 Languages and Tools:</h3>
+<p align="left">
   <!-- 각 아이콘에 스타일 추가 -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px; background: #222; padding: 10px; border-radius: 10px;"/>
@@ -50,7 +50,7 @@
 
 <!-- GitHub Stats Section -->
 <!-- GitHub Stats Section -->
-<div align="center">
+<div align="left">
   <a href="https://github.com/bangjyun">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bangjyun&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a>
