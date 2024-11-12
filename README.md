@@ -2,14 +2,15 @@
 
 <!-- README Header -->
 
-Bang 👋
+<h2 align="left">
+  Bang 👋
+</h2>
 
-
-<p align="center">
+<p align="left">
   📫 <b>How to reach me:</b> <a href="mailto:bangjun@ajou.ac.kr">bangjun@ajou.ac.kr</a>
 </p>
 
-<div align="center">
+<div align="left">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/bangjyun?label=Followers&style=social" />
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/bangjyun?affiliations=OWNER%2CCOLLABORATOR&style=social" />
 </div>
