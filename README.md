@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 <h2 align="left">
   Bang 👋
 </h2>
+
+[![Typing SVG]([https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg](https://readme-typing-svg.demolab.com/demo/?font=Roboto+Condensed&size=15&duration=3000&pause=2000&color=2ECC71&background=1ABC9C34&center=true&vCenter=true&width=480&height=40&lines=%F0%9F%8C%9F+%22Creating+software+to+shape+a+better+world%2C+one+line+of+code+at+a+time.%22))
+
+
 <p align="left">
   📫 <b>How to reach me:</b> <a href="mailto:bangjun@ajou.ac.kr">bangjun@ajou.ac.kr</a>
 </p>
