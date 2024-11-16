@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 
 <!-- GitHub Stats Section -->
-<br> <!-- 줄 바꿈 추가 -->
+ <!-- <br> 줄 바꿈 추가 -->
 <div align="left">
   <a href="https://github.com/bangjyun">
     <img height="180" width="360" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bangjyun&layout=compact&langs_count=8&card_width=320&theme=dark" />
