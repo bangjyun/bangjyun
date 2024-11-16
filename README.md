@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   Bang 👋
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=15&duration=3000&pause=2000&color=2ECC71&background=1ABC9C34&center=true&vCenter=true&repeat=false&width=480&height=40&lines=%F0%9F%8C%9F+%22Creating+software+to+shape+a+better+world%2C+one+line+of+code+at+a+time.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=19&duration=3000&pause=2000&color=2ECC71&background=1ABC9C34&center=true&vCenter=true&repeat=false&width=600&height=120&lines=%F0%9F%8C%9F+%22Creating+software+to+shape+a+better+world%2C+one+line+of+code+at+a+time.%22)](https://git.io/typing-svg)
 
 <p align="left">
   📫 <b>How to reach me:</b> <a href="mailto:bangjun@ajou.ac.kr">bangjun@ajou.ac.kr</a>
